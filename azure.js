@@ -8,7 +8,7 @@ var dbConfig = {
  server: "samsql1.database.windows.net", // Use your SQL server name
  database: "samsql", // Database to connect to
  user: "sam", // Use your username
- password: "1Etsbqyuw!", // Use your password
+ password: "Pass!", // Use your password
  port: 1433,
  // Since we're on Windows Azure, we need to set the following options
  options: {
